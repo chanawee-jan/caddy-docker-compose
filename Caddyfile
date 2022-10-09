@@ -1,0 +1,3 @@
+cms.taratera.com {
+        reverse_proxy http://strapi:1337
+}
